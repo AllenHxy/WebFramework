@@ -1,0 +1,15 @@
+# maven #
+target/
+# IDEA #
+.idea/
+*.iml
+# Package Files #
+*.jar
+*.war
+*.ear
+*.zip
+*.tar.gz
+*.rar
+
+# Compiled class file
+*.class
